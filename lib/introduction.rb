@@ -1,6 +1,6 @@
-def #introduction_with_language("name")
+def #introduction_with_language("josh")
 
-puts "hi,my name is #{fikru}."
+puts "hi,my name is #{josh}."
 end
 
 #introduction_with_language
