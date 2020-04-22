@@ -10,3 +10,5 @@ def introduction(name)
 end
 
 def introduction(name)
+  puts "Hi, my nake is # {name}."
+end
